@@ -32,3 +32,14 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+
+
+/*changes style for all p tags*/
+/*p{
+     font-variant: small-caps;
+}*/
+
+#project1 {
+     font-variant: small-caps;
+}
